@@ -1,8 +1,8 @@
 {
-  "name": "website",
+  "name": "fika-and-lagom.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://fikaandlagom.com",
+  "homepage": "http://fikaandlagom.com/fika-and-lagom.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
