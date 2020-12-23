@@ -1,11 +1,11 @@
-import React from 'react'
-
 import './Welcome.css'
 import Logo from '../../assets/images/logo_2.png'
 import About from './About'
+import Container from 'react-bootstrap/Container'
 
 const Welcome = ({element}) => {
     return (
+        <Container fluid>
             <main>
                 <section className='welcome'>
                     <div ref={element}>
@@ -15,9 +15,8 @@ const Welcome = ({element}) => {
                     </div>
                 </section>
                 <About />
-                <About />
-                <About />
             </main>
+        </Container>
     )
 }
 
