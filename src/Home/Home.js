@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import { Button } from 'react-bootstrap';
 import history from './../history';
 import "./Home.css";
+import Logo from "../components/Images/dala_horse.png";
 
 export default class Home extends Component {
   render() {

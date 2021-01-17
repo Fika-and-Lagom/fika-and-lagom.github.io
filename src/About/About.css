@@ -1,0 +1,16 @@
+.about {
+  margin: 4em 0;
+	padding: 1em;
+	position: relative;
+  text-align: center;
+}
+
+.hey {
+  text-align: center;
+  font-family: verdana;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}

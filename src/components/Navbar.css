@@ -1,3 +1,24 @@
 .btn-space {
     margin-right: 5px;
 }
+.navbar{
+  background:#246482;
+}
+
+.nav-link{
+  margin-right: 1em !important;
+}
+
+.nav-link:hover{
+  color: #E5ECDA;
+}
+
+.brand {
+  font-family: 'Amatic SC', cursive;
+}
+
+/* trying to get the selected section to be a different color */
+/* .nav-link:active{
+  background-color: #E5ECDA;
+  color: black;
+} */
